@@ -4,4 +4,10 @@
   <UltimateArticulationEngine>1.0</UltimateArticulationEngine>
   <FastChordGrid>1.0</FastChordGrid>
   <FastAutoSustainer>1.0</FastAutoSustainer>
+  <FastSylenthPresetConverter>
+  We are Ultimate Midi Plugin.
+  Our goal is to make intuitive, inspiring and practical vst plugins or apps related to vst.
+  We are currently working on video tutorials and plugin updates for better features, and prototypes for new apps.
+  We want our plugins to be your best and favorite plugins. 
+  </FastSylenthPresetConverter>
 </UltimatePlugin>
