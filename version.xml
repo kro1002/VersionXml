@@ -5,7 +5,7 @@
   <UltimateSylenthPresetManager>1.1</UltimateSylenthPresetManager>
   <FastChordGrid>1.1</FastChordGrid>
   <FastAutoSustainer>1.0</FastAutoSustainer>
-  <SimpleChordDetection>1.0</SimpleChordDetection>
+  <SimpleChordDetection isFree="true">1.0</SimpleChordDetection>
   <FastSylenthPresetConverter>
   We are Ultimate Midi Plugin.\nOur goal is to make intuitive, inspiring and practical vst plugins or apps related to vst.\nWe are currently working on video tutorials and plugin updates for better features, and prototypes for new apps.\nWe want our plugins to be your best and favorite plugins.\n\nWe released Ultimate Kontakt Library Manager, Ultimate Sylenth Preset Manager, Ultimate Articulation Engine, Fast Chord Grid.\n\nLatest News\nUpdate - Ultimate Kontakt Library Manager 1.2.1v  
   </FastSylenthPresetConverter>
