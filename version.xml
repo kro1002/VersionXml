@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <UltimatePlugin>
-  <UltimateKontaktManager>1.3.5</UltimateKontaktManager>
+  <UltimateKontaktManager>1.3.6</UltimateKontaktManager>
   <UltimateArticulationEngine>1.0.2</UltimateArticulationEngine>
   <UltimateSylenthPresetManager>1.1</UltimateSylenthPresetManager>
   <FastChordGrid>1.1</FastChordGrid>
   <FastAutoSustainer>1.0</FastAutoSustainer>
   <SimpleChordDetection isFree="true">1.0</SimpleChordDetection>
   <FastSylenthPresetConverter>
-  We are Ultimate Midi Plugin.\nOur goal is to make intuitive, inspiring and practical vst plugins or apps related to vst.\nWe are currently working on video tutorials and plugin updates for better features, and prototypes for new apps.\nWe want our plugins to be your best and favorite plugins.\n\nWe have released Ultimate Kontakt Library Manager, Ultimate Sylenth Preset Manager, Ultimate Articulation Engine, Fast Chord Grid, Simple Chord Detection.\n\nLatest News\nUpdate - Ultimate Kontakt Library Manager 1.3.5v  
+  We are Ultimate Midi Plugin.\nOur goal is to make intuitive, inspiring and practical vst plugins or apps related to vst.\nWe are currently working on video tutorials and plugin updates for better features, and prototypes for new apps.\nWe want our plugins to be your best and favorite plugins.\n\nWe have released Ultimate Kontakt Library Manager, Ultimate Sylenth Preset Manager, Ultimate Articulation Engine, Fast Chord Grid, Simple Chord Detection.\n\nLatest News\nUpdate - Ultimate Kontakt Library Manager 1.3.6v  
   </FastSylenthPresetConverter>
 </UltimatePlugin>
