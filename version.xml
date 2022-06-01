@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <UltimatePlugin>
   <UltimateChordEngine>1.4</UltimateChordEngine>
-  <UltimateKontaktManager>1.4.0</UltimateKontaktManager>
+  <UltimateKontaktManager>1.4.0b</UltimateKontaktManager>
   <UltimateArticulationEngine>1.0.2</UltimateArticulationEngine>
   <UltimateSylenthPresetManager>1.1</UltimateSylenthPresetManager>
   <FastChordGrid>1.1</FastChordGrid>
