@@ -3,11 +3,11 @@
   <UltimateChordEngine>1.7</UltimateChordEngine>
   <UltimateKontaktManager>1.4.0b</UltimateKontaktManager>
   <UltimateArticulationEngine>1.0.2</UltimateArticulationEngine>
-  <UltimateSylenthPresetManager>1.1</UltimateSylenthPresetManager>
+  <UltimateSylenthPresetManager>1.1.5</UltimateSylenthPresetManager>
   <FastChordGrid>1.1</FastChordGrid>
   <FastAutoSustainer>1.0</FastAutoSustainer>
   <SimpleChordDetection isFree="true">1.2</SimpleChordDetection>
   <FastSylenthPresetConverter>
-  We are Ultimate Midi Plugin.\nOur goal is to make intuitive, inspiring and practical vst plugins or apps related to vst.\nWe are currently working on video tutorials and plugin updates for better features, and prototypes for new apps.\nWe want our plugins to be your best and favorite plugins.\n\nWe have released Ultimate Chord Engine, Ultimate Kontakt Library Manager, Ultimate Sylenth Preset Manager, Simple Chord Detection.\n\nLatest News\nUpdate - UChord(Ultimate Chord Engine) 1.7v
+  We are Ultimate Midi Plugin.\nOur goal is to make intuitive, inspiring and practical vst plugins or apps related to vst.\nWe are currently working on video tutorials and plugin updates for better features, and prototypes for new apps.\nWe want our plugins to be your best and favorite plugins.\n\nWe have released Ultimate Chord Engine, Ultimate Kontakt Library Manager, Ultimate Sylenth Preset Manager, Simple Chord Detection.\n\nLatest News\nUpdate - Ultimate Sylenth Preset Manager 1.1.5v
   </FastSylenthPresetConverter>
 </UltimatePlugin>
