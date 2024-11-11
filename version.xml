@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <UltimatePlugin>
+  <UPhrase>1.0</UPhrase>
   <UltimateChordEngine>1.7</UltimateChordEngine>
   <UltimateKontaktManager>1.4.0b</UltimateKontaktManager>
   <UltimateArticulationEngine>1.0.2</UltimateArticulationEngine>
