@@ -4,5 +4,5 @@
   <bl name="Test">test@gmail.com</bl>
   <bl name="Lynn Johnson">drdubious@earthlink.net</bl>
   <bl2>finaldream1122@gmail.com</bl2>
-  <bl></bl>
+  <bl2 name="empty"></bl2>
 </UltimatePlugin>
